@@ -1,0 +1,35 @@
+begin:0  	middle:1	end:2
+[2, null, null, null, null]
+[2, 9, 7, 1, 0, 5, 6, 8, 3, 4]
+
+begin:3  	middle:4	end:5
+[1, null, null, null, null]
+[2, 9, 7, 0, 1, 5, 6, 8, 3, 4]
+
+begin:2  	middle:3	end:5
+[7, null, null, null, null]
+[2, 9, 0, 1, 7, 5, 6, 8, 3, 4]
+
+begin:0  	middle:2	end:5
+[2, 9, null, null, null]
+[0, 1, 2, 7, 9, 5, 6, 8, 3, 4]
+
+begin:5  	middle:6	end:7
+[5, 9, null, null, null]
+[0, 1, 2, 7, 9, 5, 6, 8, 3, 4]
+
+begin:8  	middle:9	end:10
+[3, 9, null, null, null]
+[0, 1, 2, 7, 9, 5, 6, 8, 3, 4]
+
+begin:7  	middle:8	end:10
+[8, 9, null, null, null]
+[0, 1, 2, 7, 9, 5, 6, 3, 4, 8]
+
+begin:5  	middle:7	end:10
+[5, 6, null, null, null]
+[0, 1, 2, 7, 9, 3, 4, 5, 6, 8]
+
+begin:0  	middle:5	end:10
+[0, 1, 2, 7, 9]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
